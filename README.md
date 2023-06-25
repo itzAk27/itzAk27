@@ -1,13 +1,13 @@
 ![MasterHead](./assets/AQ.png)
 
-<h1 align="center">Hi 👋, I'm Mohammed Saqib Ansari</h1>
+<h1 align="center">Hi 👋, I'm Akhtar</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammedsaqib1&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedsaqib1" /> </p>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966">
 - 🌱 I’m currently an <b>Engineering Student</b>
 
-- 💬 Ask me about **DS & Algorithms, C++**
+- 💬 Ask me about **DS & Algorithms, C++ and Development**
 
-- 📫 How to reach me **saqibansari.prime@gmail.com**
+- 📫 How to reach me **Akhtarkhanak2712@gmail.com**
 
 - ⚡ Fun fact **I am a Foodie**
 
